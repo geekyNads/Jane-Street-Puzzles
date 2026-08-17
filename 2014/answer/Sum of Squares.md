@@ -7,5 +7,7 @@ total of 199.  My Solution [(199)98999,99998,99999,79888,89810]
 
 But the solution given is 205 by 3 participants as [(205),98999,99998,79899,99896,89890]
 
-
-C++ program
+how i approach the question according to solution first three rows are exactly same 
+so the next problem rather than using 88 for row (4) using it for column (8) is 
+more beneficiary as we can add a 6 replacing 1 and a 9 replacing 8. totally adding 
+5 in total.
