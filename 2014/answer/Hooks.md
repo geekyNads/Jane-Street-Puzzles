@@ -8,4 +8,4 @@ official website
 
 <img width="1097" height="755" alt="janestreet2" src="https://github.com/user-attachments/assets/38bd50f5-204c-4934-b8f2-22c455262549" />
 
-therefore sum of dark squares will be 158
+therefore sum of dark squares is 158
