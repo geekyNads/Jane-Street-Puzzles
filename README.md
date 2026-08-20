@@ -1,3 +1,6 @@
+##Check out how a normal guy solves jane street puzzles
+
+
 What is in this repo
 
 this repo consists of solutions (not exactly right or wrong)
