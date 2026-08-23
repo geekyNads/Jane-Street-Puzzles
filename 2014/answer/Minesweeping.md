@@ -29,4 +29,5 @@ so p(s) = 76/(76+2) = 76/78 == 38/39
 pretty neat
 
 jane street solution 
-![Uploading image.png…]()
+<img width="430" height="647" alt="image" src="https://github.com/user-attachments/assets/c57dd40f-1165-4a29-b829-1424cd6b142a" />
+
